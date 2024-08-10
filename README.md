@@ -9,6 +9,10 @@
 - CSS preprocessors like SASS or LESS, focusing on nesting, variables, and mixins
 - Review common web security practices, including XSS prevention, CORS, CSRF protection, and HTTPS
 
+### Material
+- https://www.typescriptlang.org/docs/handbook/intro.html
+- https://angular.dev/overview
+
 ### JavaScript and ES6+
 - JavaScript basics, including data types, functions, and objects
 - scope, hoisting, closures, and prototypes
