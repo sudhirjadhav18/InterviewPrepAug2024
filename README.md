@@ -11,7 +11,9 @@
 
 ### Material
 - https://www.typescriptlang.org/docs/handbook/intro.html
+- https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 - https://angular.dev/overview
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ### JavaScript and ES6+
 - JavaScript basics, including data types, functions, and objects
